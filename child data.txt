@@ -1,0 +1,62 @@
+[
+    {
+        "_id": 1,
+        "fullName": "Adam Islam",
+        "age": 4,
+        "level": "KG1",
+        "address": {
+            "city": "Cairo",
+            "street": "Sobh",
+            "building": "1"
+        },
+        "__v": 0
+    },
+    {
+        "_id": 2,
+        "fullName": "emad",
+        "age": 4,
+        "level": "KG1",
+        "address": {
+            "city": "Cairo",
+            "street": "Sobh",
+            "building": "1"
+        },
+        "__v": 0
+    },
+    {
+        "_id": 3,
+        "fullName": "ali",
+        "age": 4,
+        "level": "KG1",
+        "address": {
+            "city": "Cairo",
+            "street": "Sobh",
+            "building": "1"
+        },
+        "__v": 0
+    },
+    {
+        "_id": 4,
+        "fullName": "ali",
+        "age": 4,
+        "level": "KG1",
+        "address": {
+            "city": "Cairo",
+            "street": "Sobh",
+            "building": "1"
+        },
+        "__v": 0
+    },
+    {
+        "_id": 6,
+        "fullName": "ali",
+        "age": 4,
+        "level": "KG1",
+        "address": {
+            "city": "Cairo",
+            "street": "Sobh",
+            "building": "1"
+        },
+        "__v": 0
+    }
+]
